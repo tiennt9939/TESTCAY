@@ -1,0 +1,614 @@
+{
+  "employees": [
+    "Luân lớn",
+    "Luân nhỏ",
+    "Huy",
+    "Mi",
+    "Hưng",
+    "Bé Hai"
+  ],
+  "rates": {
+    "C6": 2000.0,
+    "C7": 2000.0,
+    "C9": 3000.0,
+    "C10": 5000.0,
+    "C11": 7000.0,
+    "C12": 10000.0
+  },
+  "items": [
+    {
+      "stt": 1,
+      "name": "Vàng bạc",
+      "size": "C7",
+      "plantPrice": 10000.0
+    },
+    {
+      "stt": 2,
+      "name": "Vàng bạc",
+      "size": "C9",
+      "plantPrice": 15000.0
+    },
+    {
+      "stt": 3,
+      "name": "Vàng bạc",
+      "size": "C10",
+      "plantPrice": 30000.0
+    },
+    {
+      "stt": 4,
+      "name": "Vàng bạc",
+      "size": "C12",
+      "plantPrice": 120000.0
+    },
+    {
+      "stt": 5,
+      "name": "Nguyệt quế thái",
+      "size": "C7",
+      "plantPrice": 10000.0
+    },
+    {
+      "stt": 6,
+      "name": "Nguyệt quế thái",
+      "size": "C9",
+      "plantPrice": 25000.0
+    },
+    {
+      "stt": 7,
+      "name": "Nguyệt quế thái",
+      "size": "C10",
+      "plantPrice": 70000.0
+    },
+    {
+      "stt": 8,
+      "name": "Cẩm tú mai",
+      "size": "C7",
+      "plantPrice": null
+    },
+    {
+      "stt": 9,
+      "name": "Cẩm tú mai",
+      "size": "C9",
+      "plantPrice": null
+    },
+    {
+      "stt": 10,
+      "name": "Cẩm tú mai",
+      "size": "C10",
+      "plantPrice": null
+    },
+    {
+      "stt": 11,
+      "name": "Cẩm tú mai",
+      "size": "C11",
+      "plantPrice": null
+    },
+    {
+      "stt": 12,
+      "name": "Trầu bà thanh xuân",
+      "size": "C9",
+      "plantPrice": 45000.0
+    },
+    {
+      "stt": 13,
+      "name": "Trầu bà thanh xuân",
+      "size": "C10",
+      "plantPrice": 60000.0
+    },
+    {
+      "stt": 14,
+      "name": "Trầu bà thanh xuân",
+      "size": "C11",
+      "plantPrice": 90000.0
+    },
+    {
+      "stt": 15,
+      "name": "Trầu bà thanh xuân",
+      "size": "C13",
+      "plantPrice": 180000.0
+    },
+    {
+      "stt": 16,
+      "name": "Mai vạn phúc C9",
+      "size": "C9",
+      "plantPrice": 16000.0
+    },
+    {
+      "stt": 17,
+      "name": "Mai vạn phúc C10",
+      "size": "C10",
+      "plantPrice": 28000.0
+    },
+    {
+      "stt": 18,
+      "name": "Mai vạn phúc C11",
+      "size": "C11",
+      "plantPrice": 45000.0
+    },
+    {
+      "stt": 19,
+      "name": "Mai vạn phúc C16",
+      "size": "C16",
+      "plantPrice": 160000.0
+    },
+    {
+      "stt": 20,
+      "name": "Ngọc ngân",
+      "size": "C7",
+      "plantPrice": 10000.0
+    },
+    {
+      "stt": 21,
+      "name": "Ngọc ngân",
+      "size": "C9",
+      "plantPrice": null
+    },
+    {
+      "stt": 22,
+      "name": "Phú quý c7",
+      "size": "C7",
+      "plantPrice": 35000.0
+    },
+    {
+      "stt": 23,
+      "name": "Phú quý c9",
+      "size": "C9",
+      "plantPrice": 35000.0
+    },
+    {
+      "stt": 24,
+      "name": "Táo thái",
+      "size": "",
+      "plantPrice": null
+    },
+    {
+      "stt": 25,
+      "name": "Táo thái",
+      "size": "",
+      "plantPrice": null
+    },
+    {
+      "stt": 26,
+      "name": "Hàm hương",
+      "size": "C7",
+      "plantPrice": 40000.0
+    },
+    {
+      "stt": 27,
+      "name": "Hàm hương",
+      "size": "C9",
+      "plantPrice": 55000.0
+    },
+    {
+      "stt": 28,
+      "name": "Bụp thấp nhiều màu",
+      "size": "C9",
+      "plantPrice": 15000.0
+    },
+    {
+      "stt": 29,
+      "name": "Lài Tây",
+      "size": "C9",
+      "plantPrice": 13000.0
+    },
+    {
+      "stt": 30,
+      "name": "Lài Tây",
+      "size": "C11",
+      "plantPrice": 45000.0
+    },
+    {
+      "stt": 31,
+      "name": "Dừa cạn nhiều màu",
+      "size": "",
+      "plantPrice": 19000.0
+    },
+    {
+      "stt": 32,
+      "name": "Phong lá đỏ C7",
+      "size": "C7",
+      "plantPrice": 23000.0
+    },
+    {
+      "stt": 33,
+      "name": "Trang thái (đỏ, vàng, hồng) C9",
+      "size": "C9",
+      "plantPrice": 30000.0
+    },
+    {
+      "stt": 34,
+      "name": "Trang thái (đỏ, vàng, hồng) C10",
+      "size": "C10",
+      "plantPrice": 90000.0
+    },
+    {
+      "stt": 35,
+      "name": "Trang thái (đỏ, vàng, hồng) T25",
+      "size": "T25",
+      "plantPrice": 180000.0
+    },
+    {
+      "stt": 36,
+      "name": "Trang thái (đỏ, vàng, hồng) T28",
+      "size": "T28",
+      "plantPrice": 250000.0
+    },
+    {
+      "stt": 37,
+      "name": "Trang thái (đỏ, vàng, hồng) tàng 1m",
+      "size": "tàng 1m",
+      "plantPrice": 350000.0
+    },
+    {
+      "stt": 38,
+      "name": "Hồng phụng C9",
+      "size": "C9",
+      "plantPrice": 40000.0
+    },
+    {
+      "stt": 39,
+      "name": "Hồng phụng C11",
+      "size": "C11",
+      "plantPrice": 90000.0
+    },
+    {
+      "stt": 40,
+      "name": "Hồng siêu nụ C9",
+      "size": "C9",
+      "plantPrice": 45000.0
+    },
+    {
+      "stt": 41,
+      "name": "Hồng siêu nụ C11",
+      "size": "C11",
+      "plantPrice": 75000.0
+    },
+    {
+      "stt": 42,
+      "name": "Sơn liễu C9",
+      "size": "C9",
+      "plantPrice": 25000.0
+    },
+    {
+      "stt": 43,
+      "name": "Sơn liễu C7",
+      "size": "C7",
+      "plantPrice": 13000.0
+    },
+    {
+      "stt": 44,
+      "name": "Trầu bà sữa C9",
+      "size": "C9",
+      "plantPrice": 25000.0
+    },
+    {
+      "stt": 45,
+      "name": "Trang mỹ hồng (hồng + đỏ + vàng) C9",
+      "size": "C9",
+      "plantPrice": 30000.0
+    },
+    {
+      "stt": 46,
+      "name": "Thiên lý C9",
+      "size": "C9",
+      "plantPrice": 21000.0
+    },
+    {
+      "stt": 47,
+      "name": "Cau Đài Loan C10",
+      "size": "C10",
+      "plantPrice": 210000.0
+    },
+    {
+      "stt": 48,
+      "name": "Chuối rẽ quạt C11",
+      "size": "C11",
+      "plantPrice": 145000.0
+    },
+    {
+      "stt": 49,
+      "name": "Cây không khí 1 bó",
+      "size": "1 bó",
+      "plantPrice": 52000.0
+    },
+    {
+      "stt": 50,
+      "name": "Vạn lộc C7",
+      "size": "C7",
+      "plantPrice": 25000.0
+    },
+    {
+      "stt": 51,
+      "name": "Vạn lộc C9",
+      "size": "C9",
+      "plantPrice": 35000.0
+    },
+    {
+      "stt": 52,
+      "name": "Nghệ tây C10",
+      "size": "C10",
+      "plantPrice": 53000.0
+    },
+    {
+      "stt": 53,
+      "name": "Bướm (hồng + trắng) C9",
+      "size": "C9",
+      "plantPrice": 45000.0
+    },
+    {
+      "stt": 54,
+      "name": "Địa lan tím C8",
+      "size": "C8",
+      "plantPrice": 18000.0
+    },
+    {
+      "stt": 55,
+      "name": "Chuối cẩm thạch C9",
+      "size": "C9",
+      "plantPrice": 40000.0
+    },
+    {
+      "stt": 56,
+      "name": "Chuối cẩm thạch C11",
+      "size": "C11",
+      "plantPrice": 75000.0
+    },
+    {
+      "stt": 57,
+      "name": "Tùng bồng lai tiên cảnh chậu gốm",
+      "size": "chậu gốm",
+      "plantPrice": 120000.0
+    },
+    {
+      "stt": 58,
+      "name": "Trúc quân tử (3 cây)",
+      "size": "3 cây",
+      "plantPrice": 25000.0
+    },
+    {
+      "stt": 59,
+      "name": "Kim Tiền",
+      "size": "C9",
+      "plantPrice": 35000.0
+    },
+    {
+      "stt": 60,
+      "name": "Kim Tiền",
+      "size": "C10",
+      "plantPrice": 50000.0
+    },
+    {
+      "stt": 61,
+      "name": "Kim Tiền",
+      "size": "C12",
+      "plantPrice": 95000.0
+    },
+    {
+      "stt": 62,
+      "name": "Thanh xà",
+      "size": "C9",
+      "plantPrice": 25000.0
+    },
+    {
+      "stt": 63,
+      "name": "Thanh xà",
+      "size": "C10",
+      "plantPrice": 45000.0
+    },
+    {
+      "stt": 64,
+      "name": "Hồng phát tài",
+      "size": "C7",
+      "plantPrice": 20000.0
+    },
+    {
+      "stt": 65,
+      "name": "Hồng phát tài",
+      "size": "C9",
+      "plantPrice": 43000.0
+    },
+    {
+      "stt": 66,
+      "name": "Lan chi",
+      "size": "C9",
+      "plantPrice": 25000.0
+    },
+    {
+      "stt": 67,
+      "name": "Polly",
+      "size": "C9",
+      "plantPrice": 45000.0
+    },
+    {
+      "stt": 68,
+      "name": "Lindini",
+      "size": "C7",
+      "plantPrice": 60000.0
+    },
+    {
+      "stt": 69,
+      "name": "Hạc cam",
+      "size": "C9",
+      "plantPrice": 90000.0
+    },
+    {
+      "stt": 70,
+      "name": "Hạc cam",
+      "size": "C10",
+      "plantPrice": 110000.0
+    },
+    {
+      "stt": 71,
+      "name": "Trầu bà lỗ",
+      "size": "C7",
+      "plantPrice": 15000.0
+    },
+    {
+      "stt": 72,
+      "name": "Như ý",
+      "size": "C7",
+      "plantPrice": 15000.0
+    },
+    {
+      "stt": 73,
+      "name": "Sơn liễu",
+      "size": "C7",
+      "plantPrice": 15000.0
+    },
+    {
+      "stt": 74,
+      "name": "Sơn liễu",
+      "size": "C9",
+      "plantPrice": 25000.0
+    },
+    {
+      "stt": 75,
+      "name": "Gia huy",
+      "size": "C9",
+      "plantPrice": 15000.0
+    },
+    {
+      "stt": 76,
+      "name": "Lá màu",
+      "size": "C9",
+      "plantPrice": 15000.0
+    },
+    {
+      "stt": 77,
+      "name": "Liễu 2 da cẩm thạch",
+      "size": "C9",
+      "plantPrice": 23000.0
+    },
+    {
+      "stt": 78,
+      "name": "Lan quân tử",
+      "size": "C9",
+      "plantPrice": 45000.0
+    },
+    {
+      "stt": 79,
+      "name": "Quỳnh hương đỏ vàng",
+      "size": "C9",
+      "plantPrice": 23000.0
+    },
+    {
+      "stt": 80,
+      "name": "Đuôi công xanh + tím + hồng",
+      "size": "C9",
+      "plantPrice": 38000.0
+    },
+    {
+      "stt": 81,
+      "name": "Phát tài lá đỏ",
+      "size": "C9",
+      "plantPrice": 30000.0
+    },
+    {
+      "stt": 82,
+      "name": "Phát tài mỹ",
+      "size": "C9",
+      "plantPrice": 30000.0
+    },
+    {
+      "stt": 83,
+      "name": "Thiết mộc lan",
+      "size": "C9",
+      "plantPrice": 40000.0
+    },
+    {
+      "stt": 84,
+      "name": "Thiết mộc lan",
+      "size": "C11",
+      "plantPrice": 140000.0
+    },
+    {
+      "stt": 85,
+      "name": "Cây trường sinh",
+      "size": "C7",
+      "plantPrice": 15000.0
+    },
+    {
+      "stt": 86,
+      "name": "Cây trường sinh",
+      "size": "C9",
+      "plantPrice": 35000.0
+    },
+    {
+      "stt": 87,
+      "name": "Thiên tuế",
+      "size": "C9",
+      "plantPrice": 75000.0
+    },
+    {
+      "stt": 88,
+      "name": "Thiên tuế",
+      "size": "C11",
+      "plantPrice": 230000.0
+    },
+    {
+      "stt": 89,
+      "name": "Thiên tuế",
+      "size": "C13",
+      "plantPrice": 450000.0
+    },
+    {
+      "stt": 90,
+      "name": "Đại phú",
+      "size": "C10",
+      "plantPrice": 55000.0
+    },
+    {
+      "stt": 91,
+      "name": "Đại phú",
+      "size": "C11",
+      "plantPrice": 130000.0
+    },
+    {
+      "stt": 92,
+      "name": "Bàng sing",
+      "size": "C9",
+      "plantPrice": 55000.0
+    },
+    {
+      "stt": 93,
+      "name": "Bàng sing",
+      "size": "C11",
+      "plantPrice": 160000.0
+    },
+    {
+      "stt": 94,
+      "name": "Tùng đuôi chồn",
+      "size": "C9",
+      "plantPrice": 35000.0
+    },
+    {
+      "stt": 95,
+      "name": "Tùng đuôi chồn",
+      "size": "C10",
+      "plantPrice": 75000.0
+    },
+    {
+      "stt": 96,
+      "name": "Tiểu trâm",
+      "size": "C9",
+      "plantPrice": 15000.0
+    },
+    {
+      "stt": 97,
+      "name": "Tiểu trâm",
+      "size": "C11",
+      "plantPrice": 65000.0
+    },
+    {
+      "stt": 98,
+      "name": "Hàm hương",
+      "size": "C7",
+      "plantPrice": 40000.0
+    },
+    {
+      "stt": 99,
+      "name": "Hàm hương",
+      "size": "C9",
+      "plantPrice": 55000.0
+    }
+  ]
+}
